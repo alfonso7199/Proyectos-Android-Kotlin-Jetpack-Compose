@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sad App</string>
+    <string name="time_until_next_monday">Time until next Monday:</string>
+</resources>
